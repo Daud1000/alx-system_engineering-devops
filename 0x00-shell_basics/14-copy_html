@@ -1,3 +1,2 @@
-Bytes
 #!/bin/bash
 cp -rua *.html ../
